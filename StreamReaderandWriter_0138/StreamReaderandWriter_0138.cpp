@@ -5,5 +5,5 @@
 int main() {
 	string baris;
 
-	ofstream outfile
+	ofstream outfile;
 }
