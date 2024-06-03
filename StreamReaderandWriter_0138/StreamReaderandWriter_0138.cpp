@@ -18,5 +18,8 @@ int main() {
 		outfile << baris << endl;
 
 	}
-	outfile.close():
+	outfile.close();
+
+	ifstream infile;
+	infile.open("contohfile.txt")
 }
