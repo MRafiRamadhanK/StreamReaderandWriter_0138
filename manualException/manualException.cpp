@@ -8,6 +8,7 @@ int main() {
 		cout << "pernyataan tidak dieksekusi" << endl;
 	}
 	catch (int a) {
-
+		cout << "pengecualian akan dieksekusi" << endl;
 	}
+
 }
